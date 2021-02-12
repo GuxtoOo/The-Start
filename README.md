@@ -92,3 +92,13 @@
   $(document).ready(function(){
     $('.tabs').tabs();
   });
+'Space Div Code'
+
+<div class="container">
+      <div class="row">
+	      <div class="col l6 s12">
+                  <div class="card-panel">
+                  </div>
+            </div>
+      </div>
+</div>      
