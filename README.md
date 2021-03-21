@@ -102,3 +102,66 @@
             </div>
       </div>
 </div>      
+<!--Code Table-->
+<div class="table">
+        <table class="striped">
+            <thead>
+              <tr>
+                  <th>Nome</th>
+                  <th>Área de atuação</th>
+                  <th>Experiência</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>André</td>
+                <td><div id="test4" class="col s12"><a class="waves-effect waves-light btn-small blue">Adm</a></div></td>
+                <td>6 anos</td>
+              </tr>
+              <tr>
+                <td>Alan</td>
+                <td><div id="test4" class="col s12"><a class="waves-effect waves-light btn-small blue">Dev.Web</a></div></td>
+                <td>9 anos</td>
+              </tr>
+              <tr>
+                <td>Débora</td>
+                <td><div id="test4" class="col s12"><a class="waves-effect waves-light btn-small blue">Eng.Pesca</a></div></td>
+                <td>3 anos</td>
+              </tr>
+              <tr>
+                <td>Eduardo</td>
+                <td><div id="test4" class="col s12"><a class="waves-effect waves-light btn-small blue">TPG</a></div></td>
+                <td>6 anos</td>
+              </tr>
+              <tr>
+                <td>Evandro</td>
+                <td><div id="test4" class="col s12"><a class="waves-effect waves-light btn-small blue">Enfermeiro</a></div></td>
+                <td>10 anos</td>
+              </tr>
+              <tr>
+                <td>Ednalva</td>
+                <td><div id="test4" class="col s12"><a class="waves-effect waves-light btn-small blue">Contábeis</a></div></td>
+                <td>2 anos</td>
+              </tr>
+              <tr>
+                <td>Flávia</td>
+                <td><div id="test4" class="col s12"><a class="waves-effect waves-light btn-small blue">Atendente</a></div></td>
+                <td>4 anos</td>
+              </tr>
+              <tr>
+                <td>Fernando</td>
+                <td><div id="test4" class="col s12"><a class="waves-effect waves-light btn-small blue">Frentista</a></div></td>
+                <td>3 anos</td>
+              </tr>
+              <tr>
+                <td>Gabriel</td>
+                <td><div id="test4" class="col s12"><a class="waves-effect waves-light btn-small blue">Piloto</a></div></td>
+                <td>9 anos</td>
+              </tr>
+              <tr>
+                <td>Gustavo</td>
+                <td><div id="test4" class="col s12"><a class="waves-effect waves-light btn-small blue">Policial</a></div></td>
+                <td>6 meses</td>
+              </tr>
+            </tbody>
+	</table>
